@@ -1,0 +1,13 @@
+:root{
+--beige: rgba(251, 239, 192, 1);
+--vert: rgba(9, 80, 59, 1);
+--marron: rgba(69, 44, 39, 1);
+--bleu: rgba(17, 15, 100, 1);
+--rouge: rgba(121, 24, 41, 1);
+
+/* Text-size styles */
+--h1: 15px;
+--h2: 30px;
+--texte: 20px;
+--petit-texte: 3px;
+}
